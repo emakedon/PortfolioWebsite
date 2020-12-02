@@ -213,6 +213,10 @@ footer i{
   opacity: .7;
 }
 /*{Project Pages}*/
+.escholar-intro,
+.mayfest-intro{
+  padding-top: 1em;
+}
 .projectpage-section-title{
   margin-bottom: 2rem;
 }
